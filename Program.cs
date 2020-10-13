@@ -12,7 +12,7 @@ namespace HW1_Melnychenko
             Console.WriteLine("Age: " + one.Age);
             Console.Write("Profession: ");
             string profession = Console.ReadLine();
-            Console.WriteLine("Nice Guy");
+            Console.WriteLine("Nice Guy +1");
             Console.ReadLine();
         }
     }
